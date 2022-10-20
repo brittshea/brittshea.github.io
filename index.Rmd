@@ -1,0 +1,17 @@
+# This is Brittany's website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+<img src="IMG_7098.jpg" style="width:75%">
+
+Here's [this](google.com).
+
+```{r}
+library(tidyverse)
+
+sample = rnorm(1000)
+mean(sample)
+
+```
+
+Here's a direct link to the about page: [about](about.html).
