@@ -1,10 +1,16 @@
 # This is Brittany's website
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+<center>
+![](https://media.giphy.com/media/KFUx0Rtz7p0HTzbJ7x/giphy.gif)
+</center>
 
-<img src="IMG_7098.jpg" style="width:75%">
 
-Here's [this](google.com).
+Here's the [NOAA weather website](https://www.weather.gov/).
+
+<center>
+<img src="images/IMG_7076.jpg" style="width:75%">
+</center>
+
 
 ```{r}
 library(tidyverse)
