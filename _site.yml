@@ -9,7 +9,7 @@ navbar:
       href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<bes2161@cumc.columbia.edu>
-    - icon: fa-envelope fa-lg
+    - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
     - icon: fa-github fa-lg
       href: http://github.com/brittshea/
