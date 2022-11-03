@@ -1,25 +1,19 @@
-# This is Brittany's website
+# Brittany Shea's Website
+
+Welcome to my website! 
 
 <center>
-![](https://media.giphy.com/media/KFUx0Rtz7p0HTzbJ7x/giphy.gif)
+<img src="images/picture1.jpg" style="width:50%">
 </center>
 
-
-Here's the [NOAA weather website](https://www.weather.gov/).
+I am currently a PhD student at Columbia University Mailman School of Public Health, Environmental Health Sciences Department, in the Climate and Health Program. I began my PhD in the fall of 2021. Previously, my research focused on climate and health education, children’s environmental health, and corporate accountability and sustainability. I am interested in conducting research on the health impacts of extreme climate events, climate-health mitigation and adaptation strategies, and environmental justice.
 
 <center>
-<img src="images/IMG_7076.jpg" style="width:75%">
+![](https://media.giphy.com/media/PMkdIc9RSSh5S/giphy.gif)
 </center>
 
+The Climate and Health Program is an interdisciplinary program focused on the health impacts of climate change. Here's the [Climate and Health website](https://www.publichealth.columbia.edu/research/climate-and-health-program).
 
-```{r}
-library(tidyverse)
+Here's a direct link to my about page: [about](about.html).
 
-sample = rnorm(1000)
-mean(sample)
-
-```
-
-Here's a direct link to the about page: [about](about.html).
-
-Here's a direct link to the plotly page: [plotly](plotly.html).
+Here's a direct link to the dashboard page: [dashboard](Dashboard.html).
